@@ -1,5 +1,9 @@
 # NHANES 2021–2023 Dataset Construction (English)
 
+**All raw NHANES 2021–2023 datasets used in this project can be downloaded directly from the CDC website:**  
+https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023
+
+
 The notebook 01_import_clean.ipynb prepares the base dataset used to train models predicting diabetes and high cholesterol from a representative sample of the U.S. population (NHANES 2021–2023).  
 Its purpose is to:
 - merge demographic, clinical, nutritional, sleep, physical activity and smoking data,
@@ -96,6 +100,10 @@ It does not yet perform cleaning or modeling, but ensures the entire project sta
 ---
 
 # Construction du jeu de données NHANES 2021–2023 (Français)
+
+**L’ensemble des fichiers NHANES 2021–2023 utilisés dans ce projet peut être téléchargé sur le site officiel du CDC :**  
+https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023
+
 
 Ce notebook prépare le jeu de données utilisé pour entraîner les modèles de prédiction du diabète et du cholestérol élevé à partir d’un échantillon représentatif de la population américaine (NHANES 2021–2023).  
 Objectifs :
