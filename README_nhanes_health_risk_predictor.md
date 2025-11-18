@@ -119,7 +119,7 @@ nhanes_health_risk_predictor/
 ├── Health-risk-predictor/
 ├── models/
 ├── notebooks/
-├── Pages_html/
+├── .gitignore
 ├── reports/
 │
 ├── nhanes_env.yml
@@ -248,7 +248,7 @@ nhanes_health_risk_predictor/
 ├── Health-risk-predictor/
 ├── models/
 ├── notebooks/
-├── Pages_html/
+├── .gitignore
 ├── reports/
 │
 ├── nhanes_env.yml
